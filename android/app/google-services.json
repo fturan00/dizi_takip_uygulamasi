@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001531760624",
+    "project_id": "muhendislik-tasarimi-88f23",
+    "storage_bucket": "muhendislik-tasarimi-88f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001531760624:android:43c0b242ed9145b2fb8735",
+        "android_client_info": {
+          "package_name": "com.example.muhendislik_tasarimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001531760624-huhu1jtou6teuvk2m6q4l19se1jp5574.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbvm_WH92XlW78Rad_TMcNKBQEyDt8yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001531760624-huhu1jtou6teuvk2m6q4l19se1jp5574.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
